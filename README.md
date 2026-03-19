@@ -1,2 +1,2 @@
-[![LeetCode Stats](https://leetcode.stats.vercel.app/api?username=nqkhai&theme=dark)](https://leetcode.com/nqkhai/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nqkhai?theme=dark&ext=activity&v=1)](https://leetcode.com/u/nqkhai/)
 
